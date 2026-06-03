@@ -1,6 +1,4 @@
 
-raw
-Plug and play readme · MD
 # Plug & Play
  
 Free, open-source operational tools for underserved organizations and communities — built to work out of the box, with no enterprise budget required. Each tool lives in its own submodule with its own stack.
@@ -27,13 +25,13 @@ plug-and-play/
  
 ### Cloning with submodules
  
-```bash
+```
 git clone --recurse-submodules https://github.com/sunrise-atelier/plug-and-play
 ```
  
 Or if already cloned:
  
-```bash
+```
 git submodule update --init --recursive
 ```
  
